@@ -4,5 +4,6 @@ pandas==2.3.3
 scikit-learn==1.8.0
 joblib==1.5.3
 protobuf==6.33.0
+xgboost==3.2.0 
 setuptools
 wheel
